@@ -1,0 +1,445 @@
+(;DT[2020-04-29]KM[7.5]PB[]PW[]AP[Lizzie: 0.6];B[pd]C[Move 1
+46.5% (0.0%)
+(network.gz / 4.8k playouts)];W[dp]C[Move 2
+53.5% (0.1%)
+(network.gz / 3.5k playouts)];B[pp]C[Move 3
+46.5% (0.1%)
+(network.gz / 2.6k playouts)];W[dc]C[Move 4
+53.4% (-0.0%)
+(network.gz / 3.0k playouts)];B[ce]C[Move 5
+46.7% (0.1%)
+(network.gz / 6.9k playouts)];W[dh]C[Move 6
+52.6% (-0.7%)
+(network.gz / 3.6k playouts)];B[ed]C[Move 7
+48.5% (1.1%)
+(network.gz / 7.4k playouts)];W[dd]C[Move 8
+51.6% (0.1%)
+(network.gz / 7.0k playouts)];B[de]C[Move 9
+48.6% (0.2%)
+(network.gz / 8.6k playouts)];W[ee]C[Move 10
+51.4% (-0.0%)
+(network.gz / 15k playouts)];B[ec]C[Move 11
+48.9% (0.3%)
+(network.gz / 19k playouts)];W[bd]C[Move 12
+49.3% (-1.8%)
+(network.gz / 5.0k playouts)];B[cd]C[Move 13
+51.2% (0.4%)
+(network.gz / 7.3k playouts)];W[cc]C[Move 14
+48.7% (-0.2%)
+(network.gz / 9.8k playouts)];B[be]C[Move 15
+51.1% (-0.2%)
+(network.gz / 16k playouts)];W[eb]C[Move 16
+49.5% (0.6%)
+(network.gz / 18k playouts)];B[fb]C[Move 17
+50.8% (0.3%)
+(network.gz / 23k playouts)];W[db]C[Move 18
+49.3% (0.1%)
+(network.gz / 28k playouts)];B[gd]C[Move 19
+51.8% (1.1%)
+(network.gz / 46k playouts)];W[bc]C[Move 20
+32.2% (-16.0%)
+(network.gz / 4.0k playouts)];B[eg]C[Move 21
+67.8% (-0.0%)
+(network.gz / 36k playouts)];W[fe]C[Move 22
+31.5% (-0.7%)
+(network.gz / 7.5k playouts)];B[ge]C[Move 23
+68.8% (0.3%)
+(network.gz / 21k playouts)];W[fg]C[Move 24
+31.6% (0.4%)
+(network.gz / 17k playouts)];B[eh]C[Move 25
+68.2% (-0.2%)
+(network.gz / 47k playouts)];W[ff]C[Move 26
+32.3% (0.5%)
+(network.gz / 59k playouts)];B[di]C[Move 27
+67.9% (0.2%)
+(network.gz / 60k playouts)];W[ei]C[Move 28
+21.8% (-10.3%)
+(network.gz / 2.5k playouts)];B[fh]C[Move 29
+75.6% (-2.6%)
+(network.gz / 20k playouts)];W[hf]C[Move 30
+21.6% (-2.8%)
+(network.gz / 16k playouts)];B[id]C[Move 31
+79.1% (0.7%)
+(network.gz / 40k playouts)];W[ch]C[Move 32
+21.1% (0.2%)
+(network.gz / 22k playouts)];B[df]C[Move 33
+79.4% (0.5%)
+(network.gz / 32k playouts)];W[ej]C[Move 34
+17.4% (-3.3%)
+(network.gz / 3.8k playouts)];B[hh]C[Move 35
+82.7% (0.1%)
+(network.gz / 10k playouts)];W[hg]C[Move 36
+15.8% (-1.4%)
+(network.gz / 3.8k playouts)];B[ih]C[Move 37
+84.5% (0.3%)
+(network.gz / 9.9k playouts)];W[jf]C[Move 38
+14.9% (-0.6%)
+(network.gz / 7.3k playouts)];B[kd]C[Move 39
+85.0% (-0.1%)
+(network.gz / 14k playouts)];W[lf]C[Move 40
+14.1% (-0.9%)
+(network.gz / 3.1k playouts)];B[cj]C[Move 41
+85.5% (-0.4%)
+(network.gz / 7.0k playouts)];W[ck]C[Move 42
+13.9% (-0.6%)
+(network.gz / 4.9k playouts)];B[bk]C[Move 43
+86.7% (0.7%)
+(network.gz / 11k playouts)];W[bj]C[Move 44
+12.2% (-1.1%)
+(network.gz / 7.1k playouts)];B[bi]C[Move 45
+88.4% (0.6%)
+(network.gz / 13k playouts)];W[ci]C[Move 46
+11.7% (0.0%)
+(network.gz / 14k playouts)];B[aj]C[Move 47
+88.3% (0.0%)
+(network.gz / 15k playouts)];W[dj]C[Move 48
+11.9% (0.3%)
+(network.gz / 19k playouts)];B[cl]C[Move 49
+87.7% (-0.3%)
+(network.gz / 18k playouts)];W[bj]C[Move 50
+12.4% (0.2%)
+(network.gz / 21k playouts)];B[kg]C[Move 51
+87.7% (0.2%)
+(network.gz / 30k playouts)];W[kf]C[Move 52
+12.5% (0.2%)
+(network.gz / 29k playouts)];B[cj]C[Move 53
+87.8% (0.3%)
+(network.gz / 65k playouts)];W[gi]C[Move 54
+10.9% (-1.3%)
+(network.gz / 3.2k playouts)];B[gh]C[Move 55
+89.0% (-0.1%)
+(network.gz / 3.9k playouts)];W[bj]C[Move 56
+11.4% (0.4%)
+(network.gz / 11k playouts)];B[ig]C[Move 57
+88.3% (-0.3%)
+(network.gz / 7.7k playouts)];W[if]C[Move 58
+11.8% (0.2%)
+(network.gz / 9.3k playouts)];B[cj]C[Move 59
+88.5% (0.3%)
+(network.gz / 27k playouts)];W[dk]C[Move 60
+10.7% (-0.9%)
+(network.gz / 9.7k playouts)];B[mc]C[Move 61
+90.0% (0.7%)
+(network.gz / 21k playouts)];W[bh]C[Move 62
+9.1% (-0.9%)
+(network.gz / 5.3k playouts)];B[mh]C[Move 63
+91.2% (0.3%)
+(network.gz / 17k playouts)];W[hc]C[Move 64
+7.0% (-1.8%)
+(network.gz / 23k playouts)];B[gc]C[Move 65
+93.1% (0.1%)
+(network.gz / 29k playouts)];W[ld]C[Move 66
+6.3% (-0.7%)
+(network.gz / 3.5k playouts)];B[lc]C[Move 67
+93.7% (-0.0%)
+(network.gz / 23k playouts)];W[jc]C[Move 68
+5.2% (-1.0%)
+(network.gz / 3.9k playouts)];B[jd]C[Move 69
+94.7% (-0.1%)
+(network.gz / 23k playouts)];W[mg]C[Move 70
+5.3% (-0.0%)
+(network.gz / 3.6k playouts)];B[nh]C[Move 71
+94.8% (0.2%)
+(network.gz / 11k playouts)];W[lh]C[Move 72
+5.1% (-0.1%)
+(network.gz / 7.3k playouts)];B[kh]C[Move 73
+95.1% (0.2%)
+(network.gz / 15k playouts)];W[lg]C[Move 74
+5.0% (0.2%)
+(network.gz / 9.3k playouts)];B[li]C[Move 75
+95.0% (0.0%)
+(network.gz / 21k playouts)];W[of]C[Move 76
+4.6% (-0.4%)
+(network.gz / 5.6k playouts)];B[kj]C[Move 77
+95.7% (0.3%)
+(network.gz / 10k playouts)];W[od]C[Move 78
+4.3% (-0.1%)
+(network.gz / 2.5k playouts)];B[oc]C[Move 79
+95.7% (-0.0%)
+(network.gz / 7.5k playouts)];W[pe]C[Move 80
+3.6% (-0.7%)
+(network.gz / 13k playouts)];B[qd]C[Move 81
+96.4% (-0.0%)
+(network.gz / 26k playouts)];W[nd]C[Move 82
+3.6% (0.0%)
+(network.gz / 19k playouts)];B[nc]C[Move 83
+96.4% (0.0%)
+(network.gz / 31k playouts)];W[ph]C[Move 84
+3.6% (-0.0%)
+(network.gz / 28k playouts)];B[qf]C[Move 85
+95.5% (-0.8%)
+(network.gz / 11k playouts)];W[qe]C[Move 86
+3.9% (-0.6%)
+(network.gz / 5.2k playouts)];B[re]C[Move 87
+95.9% (-0.2%)
+(network.gz / 26k playouts)];W[rf]C[Move 88
+3.7% (-0.4%)
+(network.gz / 2.8k playouts)];B[rg]C[Move 89
+96.3% (-0.0%)
+(network.gz / 28k playouts)];W[qg]C[Move 90
+3.5% (-0.2%)
+(network.gz / 8.0k playouts)];B[sf]C[Move 91
+96.5% (-0.0%)
+(network.gz / 12k playouts)];W[pf]C[Move 92
+3.6% (0.0%)
+(network.gz / 15k playouts)];B[qh]C[Move 93
+96.6% (0.1%)
+(network.gz / 7.6k playouts)];W[rf]C[Move 94
+3.4% (-0.1%)
+(network.gz / 12k playouts)];B[qi]C[Move 95
+96.4% (-0.2%)
+(network.gz / 9.2k playouts)](;W[rd]C[Move 96
+3.7% (0.2%)
+(network.gz / 7.7k playouts)];B[qf]C[Move 97
+96.3% (-0.0%)
+(network.gz / 5.4k playouts)];W[pc]C[Move 98
+3.8% (0.0%)
+(network.gz / 5.4k playouts)];B[qc]C[Move 99
+96.2% (-0.0%)
+(network.gz / 2.7k playouts)];W[rf]C[Move 100
+3.6% (-0.1%)
+(network.gz / 7.3k playouts)];B[do]C[Move 101
+96.3% (-0.1%)
+(network.gz / 50k playouts)])(;W[pi]C[Move 96
+3.4% (-0.2%)
+(network.gz / 4.0k playouts)];B[qf]C[Move 97
+96.3% (-0.3%)
+(network.gz / 19k playouts)];W[hd]C[Move 98
+2.6% (-1.1%)
+(network.gz / 2.7k playouts)];B[he]C[Move 99
+97.4% (-0.0%)
+(network.gz / 2.1k playouts)];W[rf]C[Move 100
+2.8% (0.2%)
+(network.gz / 9.3k playouts)];B[dl]C[Move 101
+96.6% (-0.6%)
+(network.gz / 27k playouts)];W[rh]C[Move 102
+2.6% (-0.8%)
+(network.gz / 2.3k playouts)];B[qf]C[Move 103
+97.2% (-0.2%)
+(network.gz / 21k playouts)];W[ie]C[Move 104
+2.1% (-0.7%)
+(network.gz / 11k playouts)];B[pg]C[Move 105
+97.7% (-0.1%)
+(network.gz / 28k playouts)];W[hb]C[Move 106
+1.4% (-0.9%)
+(network.gz / 10k playouts)];B[og]C[Move 107
+98.3% (-0.3%)
+(network.gz / 35k playouts)];W[el]C[Move 108
+1.1% (-0.5%)
+(network.gz / 5.7k playouts)];B[em]C[Move 109
+98.4% (-0.4%)
+(network.gz / 20k playouts)];W[dm]C[Move 110
+1.2% (-0.4%)
+(network.gz / 7.2k playouts)];B[fl]C[Move 111
+98.6% (-0.2%)
+(network.gz / 13k playouts)];W[ek]C[Move 112
+1.2% (-0.1%)
+(network.gz / 10k playouts)];B[cm]C[Move 113
+98.8% (0.0%)
+(network.gz / 6.5k playouts)];W[dn]C[Move 114
+1.3% (0.1%)
+(network.gz / 10k playouts)];B[bo]C[Move 115
+98.5% (-0.1%)
+(network.gz / 19k playouts)];W[co]C[Move 116
+1.4% (-0.1%)
+(network.gz / 5.1k playouts)];B[bn]C[Move 117
+98.8% (0.1%)
+(network.gz / 15k playouts)];W[bp]C[Move 118
+1.2% (-0.0%)
+(network.gz / 15k playouts)];B[bq]C[Move 119
+98.8% (0.0%)
+(network.gz / 15k playouts)];W[ap]C[Move 120
+1.3% (0.1%)
+(network.gz / 11k playouts)](;B[cp]C[Move 121
+96.3% (-2.4%)
+(network.gz / 1.2k playouts)])(;B[cq]C[Move 121
+98.8% (0.1%)
+(network.gz / 5.6k playouts)];W[cp]C[Move 122
+1.2% (0.0%)
+(network.gz / 8.8k playouts)];B[eq]C[Move 123
+98.7% (-0.1%)
+(network.gz / 13k playouts)];W[bj]C[Move 124
+1.3% (-0.0%)
+(network.gz / 4.6k playouts)];B[fr]C[Move 125
+98.5% (-0.2%)
+(network.gz / 20k playouts)];W[fo]C[Move 126
+1.5% (0.1%)
+(network.gz / 5.8k playouts)];B[cj]C[Move 127
+98.2% (-0.3%)
+(network.gz / 25k playouts)](;W[gq]C[Move 128
+1.6% (-0.2%)
+(network.gz / 9.4k playouts)])(;W[dq]C[Move 128
+1.4% (-0.4%)
+(network.gz / 2.7k playouts)];B[dr]C[Move 129
+98.7% (0.0%)
+(network.gz / 3.1k playouts)];W[bj]C[Move 130
+1.5% (0.1%)
+(network.gz / 7.2k playouts)];B[ic]C[Move 131
+98.3% (-0.3%)
+(network.gz / 13k playouts)];W[ib]C[Move 132
+1.7% (-0.0%)
+(network.gz / 11k playouts)];B[jb]C[Move 133
+98.2% (-0.1%)
+(network.gz / 36k playouts)];W[ja]C[Move 134
+1.8% (-0.1%)
+(network.gz / 9.6k playouts)];B[kb]C[Move 135
+98.0% (-0.2%)
+(network.gz / 17k playouts)];W[gb]C[Move 136
+2.1% (0.1%)
+(network.gz / 20k playouts)];B[cj]C[Move 137
+97.9% (-0.1%)
+(network.gz / 18k playouts)];W[al]C[Move 138
+1.8% (-0.4%)
+(network.gz / 36k playouts)](;B[am]C[Move 139
+97.9% (-0.3%)
+(network.gz / 5.4k playouts)];W[bl]C[Move 140
+2.2% (0.1%)
+(network.gz / 8.8k playouts)];B[ao]C[Move 141
+97.2% (-0.5%)
+(network.gz / 2.8k playouts)])(;B[fm]C[Move 139
+98.5% (0.3%)
+(network.gz / 9.2k playouts)](;W[bl]C[Move 140
+1.8% (0.3%)
+(network.gz / 6.6k playouts)])(;W[gk]C[Move 140
+1.5% (0.0%)
+(network.gz / 12k playouts)];B[hm]C[Move 141
+98.3% (-0.2%)
+(network.gz / 8.3k playouts)];W[gp]C[Move 142
+1.4% (-0.2%)
+(network.gz / 3.7k playouts)];B[hq]C[Move 143
+98.2% (-0.3%)
+(network.gz / 8.9k playouts)];W[io]C[Move 144
+1.4% (-0.3%)
+(network.gz / 5.8k playouts)];B[jn]C[Move 145
+97.8% (-0.8%)
+(network.gz / 18k playouts)];W[iq]C[Move 146
+1.8% (-0.4%)
+(network.gz / 9.0k playouts)];B[ir]C[Move 147
+97.7% (-0.4%)
+(network.gz / 13k playouts)];W[jq]C[Move 148
+1.8% (-0.4%)
+(network.gz / 18k playouts)];B[jo]C[Move 149
+97.3% (-0.9%)
+(network.gz / 25k playouts)];W[gq]C[Move 150
+1.9% (-0.8%)
+(network.gz / 9.6k playouts)];B[gr]C[Move 151
+97.8% (-0.2%)
+(network.gz / 15k playouts)];W[hp]C[Move 152
+2.2% (0.0%)
+(network.gz / 16k playouts)];B[hr]C[Move 153
+97.5% (-0.3%)
+(network.gz / 26k playouts)];W[jl]C[Move 154
+1.6% (-0.9%)
+(network.gz / 17k playouts)];B[ik]C[Move 155
+97.9% (-0.6%)
+(network.gz / 25k playouts)];W[nq]C[Move 156
+1.5% (-0.6%)
+(network.gz / 16k playouts)];B[kq]C[Move 157
+97.6% (-0.9%)
+(network.gz / 24k playouts)];W[kp]C[Move 158
+1.3% (-1.1%)
+(network.gz / 3.5k playouts)];B[jp]C[Move 159
+98.0% (-0.7%)
+(network.gz / 28k playouts)];W[ip]C[Move 160
+1.5% (-0.5%)
+(network.gz / 11k playouts)];B[lp]C[Move 161
+98.0% (-0.5%)
+(network.gz / 17k playouts)];W[kr]C[Move 162
+1.7% (-0.3%)
+(network.gz / 4.6k playouts)];B[lq]C[Move 163
+98.1% (-0.2%)
+(network.gz / 8.9k playouts)];W[lr]C[Move 164
+1.6% (-0.3%)
+(network.gz / 4.8k playouts)];B[np]C[Move 165
+97.5% (-0.9%)
+(network.gz / 7.3k playouts)];W[op]C[Move 166
+1.6% (-0.9%)
+(network.gz / 26k playouts)];B[oq]C[Move 167
+97.8% (-0.6%)
+(network.gz / 75k playouts)];W[mp]C[Move 168
+2.0% (-0.2%)
+(network.gz / 27k playouts)];B[oo]C[Move 169
+97.8% (-0.2%)
+(network.gz / 16k playouts)];W[lo]C[Move 170
+2.2% (0.0%)
+(network.gz / 17k playouts)];B[ko]C[Move 171
+97.6% (-0.2%)
+(network.gz / 14k playouts)];W[mq]C[Move 172
+2.5% (0.0%)
+(network.gz / 18k playouts)];B[ln]C[Move 173
+97.4% (-0.2%)
+(network.gz / 15k playouts)];W[kp]C[Move 174
+2.9% (0.3%)
+(network.gz / 11k playouts)];B[mo]C[Move 175
+96.6% (-0.4%)
+(network.gz / 44k playouts)];W[lp]C[Move 176
+3.0% (-0.4%)
+(network.gz / 12k playouts)];B[mn]C[Move 177
+96.8% (-0.2%)
+(network.gz / 11k playouts)];W[qq]C[Move 178
+2.4% (-0.8%)
+(network.gz / 3.0k playouts)];B[qp]C[Move 179
+97.1% (-0.6%)
+(network.gz / 5.5k playouts)];W[or]C[Move 180
+2.4% (-0.5%)
+(network.gz / 3.5k playouts)];B[pq]C[Move 181
+97.3% (-0.3%)
+(network.gz / 5.0k playouts)];W[pr]C[Move 182
+2.4% (-0.3%)
+(network.gz / 3.4k playouts)];B[qr]C[Move 183
+97.1% (-0.5%)
+(network.gz / 37k playouts)];W[gm]C[Move 184
+2.1% (-0.9%)
+(network.gz / 3.0k playouts)];B[gl]C[Move 185
+97.5% (-0.4%)
+(network.gz / 17k playouts)];W[hl]C[Move 186
+1.6% (-0.9%)
+(network.gz / 4.5k playouts)];B[il]C[Move 187
+98.0% (-0.5%)
+(network.gz / 24k playouts)];W[hk]C[Move 188
+1.6% (-0.4%)
+(network.gz / 8.2k playouts)];B[gn]C[Move 189
+98.1% (-0.3%)
+(network.gz / 19k playouts)];W[ij]C[Move 190
+1.9% (-0.1%)
+(network.gz / 10k playouts)];B[im]C[Move 191
+97.8% (-0.3%)
+(network.gz / 15k playouts)];W[jj]C[Move 192
+1.8% (-0.4%)
+(network.gz / 3.1k playouts)];B[jk]C[Move 193
+97.9% (-0.3%)
+(network.gz / 11k playouts)];W[nf]C[Move 194
+2.5% (0.4%)
+(network.gz / 16k playouts)];B[md]C[Move 195
+97.2% (-0.3%)
+(network.gz / 22k playouts)];W[fc]C[Move 196
+2.6% (-0.2%)
+(network.gz / 12k playouts)];B[ne]C[Move 197
+97.6% (0.2%)
+(network.gz / 11k playouts)];W[oe]C[Move 198
+2.5% (0.1%)
+(network.gz / 1.6k playouts)];B[me]C[Move 199
+97.2% (-0.3%)
+(network.gz / 27k playouts)];W[br]C[Move 200
+2.3% (-0.5%)
+(network.gz / 577 playouts)];B[cr]C[Move 201
+97.7% (-0.1%)
+(network.gz / 3.8k playouts)];W[aq]C[Move 202
+2.4% (0.1%)
+(network.gz / 2.6k playouts)];B[bs]C[Move 203
+97.5% (-0.1%)
+(network.gz / 1.5k playouts)];W[ar]C[Move 204
+2.6% (0.1%)
+(network.gz / 8.1k playouts)];B[fq]C[Move 205
+97.1% (-0.3%)
+(network.gz / 23k playouts)];W[es]C[Move 206
+2.2% (-0.7%)
+(network.gz / 8.5k playouts)];B[fs]C[Move 207
+97.3% (-0.5%)
+(network.gz / 40k playouts)];W[ah]C[Move 208
+2.9% (0.2%)
+(network.gz / 4.8k playouts)];B[rq]C[Move 209
+96.9% (-0.2%)
+(network.gz / 12k playouts)];W[en]C[Move 210
+3.1% 
+(network.gz / 0 playouts)]))))))

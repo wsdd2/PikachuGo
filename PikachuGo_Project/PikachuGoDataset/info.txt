@@ -1,0 +1,23 @@
+王奇：
+本部分演示了PikachuGo的数据集制作，使用了51,881个职业对局棋谱。
+此处使用了100份数据处理进行演示
+
+0_original_data文件夹存放了100份职业棋谱
+
+参数设置（目录，块大小等）存放在配置文件中，修改配置文件即可。
+
+数据处理主要分为几个步骤
+1_del_handicap.py（删除让子棋谱、座子棋谱、特殊规则的棋谱等）
+python 1_del_handicap.py
+2_sgf_process.py（预处理）
+python 2_sgf_process.py
+3_data_maker.py（制作数据）
+python 3_data_maker.py 1
+4_policy_drop.py（丢弃训练策略网络的数据）
+python 4_policy_drop.py
+5_policy_drop.py（丢弃训练策略网络的数据）
+python 5_value_drop.py
+6_shuffle.py（打乱，每30个文件打乱）
+python 6_shuffle.py
+7_generate_ultimate.py（生成最终的数据集，多余的可作为测试集）
+python 7_generate_ultimate.py

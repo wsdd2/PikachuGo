@@ -1,0 +1,124 @@
+
+"""
+import os
+path = os.listdir('D:/Process')
+
+for file in path:
+    fp = open('D:/Process/' + file)
+    print file
+    con = fp.read()
+    res = con.split('|')
+    res = res[3: ]
+    g = Go()
+    for pos in res:
+        # print g.round
+        g.place_stone(pos)
+    go_plot.go_plot(g.board)
+    for i in range(361):
+        print g.is_eye(i),
+        if (i+1) % 19 == 0:
+            print
+    s0 = time.time()
+    raw_input()
+
+"""
+"""
+
+import os
+path = os.listdir('D:/Process')
+
+for file in path:
+    fp = open('D:/Process/' + file)
+    fp = open('D:/Process/2018-04-10h.sgf')
+    print file
+    con = fp.read()
+    res = con.split('|')
+    res = res[3: ]
+    g = Go()
+    for pos in res:
+        # print g.round
+        g.place_stone(pos)
+    go_plot.go_plot(g.board)
+    break
+"""
+
+"""
+
+
+time_s = time.time()
+def run_monte_carlo(times):
+    global done
+    for _ in range(times):
+        g = Go()
+        for i in range(400):
+            pos = np.random.randint(0, 361)
+            g.place_stone_num(pos)
+        go_plot.go_plot(g.board)
+        break
+
+run_monte_carlo(1000)
+
+
+print time.time() - time_s
+"""
+
+"""
+zob_array = get_zobrist_random()
+hash = get_init_hash(zob_array)
+print hash
+hash = get_new_hash(hash, zob_array, STATE_EMPTY, 0)
+hash = get_new_hash(hash, zob_array, STATE_BLACK, 0)
+print hash
+hash = get_new_hash(hash, zob_array, STATE_BLACK, 0)
+hash = get_new_hash(hash, zob_array, STATE_EMPTY, 0)
+print hash
+"""
+
+'''
+def process(start):
+    start = start*20
+    train_set = np.array([], dtype=np.int8)
+    label = np.array([], dtype=np.int8)
+    for i in range(start, start+20):
+        g = Game()
+        sg = open('../process2/' + str(i) + '.sgf')
+        cont = sg.read()
+        x = cont.split('\n')
+
+        for s in x:
+            if len(s) > 0:
+                # g.print_info()
+                out = g.generate().reshape(-1)
+
+                # print train_set.shape
+                if len(s)<4 :
+                    g.do_pass(None)
+                    continue
+                posy = ord(s[2]) - ord('a')
+                posx = ord(s[3]) - ord('a')
+                if not (0 <= posx <19 and 0 <= posy < 19):
+                    g.do_pass(None)
+                    continue
+
+                if g.do_move((posx, posy), None) is False:
+                    break
+                train_set = np.append(train_set, out)
+                lb = np.zeros((19, 19), dtype=np.int8)
+                lb[posx][posy] = 1
+                label = np.append(label, lb)
+                # g.print_board()
+
+        train_set = train_set.reshape((-1, 10, 19, 19))
+        label = label.reshape((-1, 19, 19))
+        print 'sgf %d processed' % (i)
+
+
+    np.save("../TrainData/train_" + str(start//20), train_set)
+    np.save("../LabelData/label_" + str(start//20), label)
+
+
+    # print train_set.shape
+    # g.print_board()
+    # print g.judge_all(color=g.current_player)
+
+'''

@@ -1,0 +1,39 @@
+    """
+        aaa = compressed[0].reshape(-1, 1, 361)
+        exp2 = exp2.T
+        exp2 = exp2.reshape(1, 16, 1)
+        recover = ((np.bitwise_and(aaa, exp2) > 0) + 0).reshape(-1, 16, 19, 19)
+        print recover[0]
+        print labelset[0]
+    """
+
+"""
+
+aaa = np.load('D:/npy/1998-02-05a.sgf.npy')
+aaa = aaa.reshape(155, 1, 361)
+exp2 = exp2.T
+exp2 = exp2.reshape(1, 16, 1)
+recover = ((np.bitwise_and(aaa, exp2) > 0) + 0).reshape(-1, 16, 19, 19)
+for x in recover:
+    print x
+    while raw_input() != 'n':
+        pass
+
+lst = ["本方棋子",
+       "对方棋子",
+       "空点",
+       "1qi",
+       "2qi",
+       "3qi",
+       "4qi",
+       "5qi", "前3手", "前1手", "极有可能眼位",
+       "眼位","打劫", "本方征子不利", "对方征子不利", "本方是否执黑"]
+i = 0
+for x in dataset:
+    print i
+    for ii in range(16):
+        print lst[ii]
+        print x[ii]
+    raw_input()
+    i += 1
+"""
