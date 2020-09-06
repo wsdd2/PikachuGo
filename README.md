@@ -11,7 +11,7 @@
 ## PikachuGoDataSet - 神经网络数据集以及训练后的参数 DataSet Of Neural Networks
 ---
 # 关于如何运行 How to play PikachuGo
-首先你需要下载python2 (>=2.7.15) 然后安装pip。安装后使用cmd或者Powershell在PikachuGo文件夹下，使用命令pip install -r requirements.txt 安装必要组件。
+首先你需要下载**python2 (>=2.7.15)** 然后安装pip。安装后使用cmd或者Powershell在PikachuGo文件夹下，使用命令pip install -r requirements.txt 安装必要组件。
 然后使用打谱软件（这里推荐Sabaki），在Engines -> Manage Engines 弹出的下方窗口，定位到PikachuGo文件夹下的run.bat，保存；然后Engines -> Attach 选择PikachuGo即可。
 
 # 一些设置参数 Configs
