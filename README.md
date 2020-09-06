@@ -2,7 +2,7 @@
 **This is an Artificial Intelligence Go project. The project is created by my friend Wang Qi, Dong yue and me.**
 **这是一个人工智能围棋的项目，是由2015级上海建桥学院王奇，董越以及我共同完成的。**
 # 演示视频 Demo Video
-[演示视频 Demo Video] (https://www.bilibili.com/video/BV1wb41177ah)
+<a href="https://www.bilibili.com/video/BV1wb41177ah" target="_blank">演示视频 Demo Video</a>
 ---
 # 各个文件夹介绍 Decription of each folder
 ## PikachuGo - 主要代码 Main Program Source Code
