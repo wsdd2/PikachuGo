@@ -1,6 +1,8 @@
 # 描述 Description
 This is an Artificial Intelligence Go project. The project is created by my friend Wang Qi, Dong yue and me.<br>
-这是一个人工智能围棋的项目，是由2015级上海建桥学院王奇，董越以及我（2016级）共同完成的。
+这是一个人工智能围棋的项目，是由2015级上海建桥学院王奇，董越以及我（2016级）共同完成的。<br>
+棋力大约达到业余4段（野狐6段）。<br>
+使用的神经网络为深度残差卷积网络，以及三大部分：策略神经网络（Policy Neural Networks）、价值神经网络（Value Neural Networks）、快速走子网络（Fast Board Neural Networks）<br>
 # 演示视频 Demo Video
 <a href="https://www.bilibili.com/video/BV1wb41177ah" target="_blank">演示视频 Demo Video</a>
 ---
