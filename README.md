@@ -18,7 +18,7 @@ PikachuGoDataSet - 神经网络数据集以及训练后的参数 DataSet Of Neur
 然后使用打谱软件（这里推荐Sabaki），在Engines -> Manage Engines 弹出的下方窗口，定位到PikachuGo文件夹下的run.bat，保存；然后Engines -> Attach 选择PikachuGo即可。<br>
 
 # 一些设置参数 Configs
-使用任何支持Python的IDE或者写字板打开PikachuGo文件夹下的Config.py，里面有相应的参数介绍，修改后保存即可开始运行。<br>
+使用任何支持Python的IDE或者写字板打开PikachuGo文件夹下的Config.py，里面有相应的参数介绍，修改后保存即可使用参数。<br>
 **不建议打开神经网络运算，因为没有做太多优化导致搜索速度比较慢，大约只有10playOuts/sec**
 
 有任何问题可以联系qq 351344673
