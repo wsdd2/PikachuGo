@@ -21,7 +21,7 @@ PikachuGoDataSet - 神经网络数据集以及训练后的参数 DataSet Of Neur
 使用任何支持Python的IDE或者写字板打开PikachuGo文件夹下的Config.py，里面有相应的参数介绍，修改后保存即可使用参数。<br>
 **不建议打开神经网络运算，因为没有做太多优化导致搜索速度比较慢，大约只有10playOuts/sec**
 
-有任何问题可以联系qq 351344673
+有任何问题可以联系qq 351344673，请备注来自GitHub
 
 
 
